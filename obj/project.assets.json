@@ -8847,11 +8847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\JokeApplication\\JokeApplication.csproj",
+      "projectUniqueName": "D:\\Projects\\Application_Asp.netcoremvc\\JokeApplication.csproj",
       "projectName": "JokeApplication",
-      "projectPath": "D:\\Projects\\JokeApplication\\JokeApplication.csproj",
+      "projectPath": "D:\\Projects\\Application_Asp.netcoremvc\\JokeApplication.csproj",
       "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\JokeApplication\\obj\\",
+      "outputPath": "D:\\Projects\\Application_Asp.netcoremvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
